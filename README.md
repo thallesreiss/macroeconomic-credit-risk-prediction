@@ -13,6 +13,6 @@ Este projeto constrói um pipeline de inteligência preditiva ponta a ponta (End
 
 * \[x] **Passo 1:** Configuração do ecossistema e script de geração/ingestão de dados de clientes.
 * \[x] **Passo 2:** Feature Engineering Avançada com SQL.
-* \[ ] **Passo 3:** Treinamento e Avaliação do Modelo de Machine Learning.
+* \[x] **Passo 3:** Treinamento e Avaliação do Modelo de Machine Learning.
 * \[ ] **Passo 4:** Relatório de Impacto Financeiro e Conclusão.
 
